@@ -64,8 +64,8 @@
 						border: 0;
 						font-size: 0.8em;
 						font-weight: _font(weight-bold);
-						letter-spacing: _font(letter-spacing);
-						text-transform: uppercase;
+						letter-spacing: none;
+						text-transform: none;
 					}
 
 					a[href="#menu"] {
